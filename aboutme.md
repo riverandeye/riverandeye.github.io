@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About me
+title: Dreaming Developer
 subtitle: Dreaming Developer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+![Dolores-O_Riordan](https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1440,w_2560,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1516127590/180115-Kennedy-How-Dolores-O_Riordan-hero_y6pzkk)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+1971-09-06 - 2018-01-15
 
-What else do you need?
-
-### my history
-
+In honor of her genius and agony
